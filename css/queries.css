@@ -300,6 +300,11 @@ Instead, 1rem = 1em = 16px */
   .cta-text-box {
     padding: 3.2rem;
   }
+
+  .cta-form select,
+  .cta-form input {
+    line-height: 1.5;
+  }
 }
 
 /*****************************/
