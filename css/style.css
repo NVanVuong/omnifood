@@ -583,7 +583,7 @@
 }
 
 .cta-form select {
-  -webkit-appearance: menulist-button;
+  -webkit-appearance: none;
 }
 
 .cta-form input::placeholder {
